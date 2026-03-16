@@ -39,7 +39,7 @@
 - DDD Entity와 JPA Entity를 언제 분리하는가?
 - 헥사고날 아키텍처는 언제 필요한가?
 
-### CQRS 적용 실헙
+### CQRS 적용
 
 - Command / Query 모델 분리
 - 조회 모델 최적화 설계
